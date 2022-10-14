@@ -28,6 +28,9 @@ https://iconion.com/posts/linecons-font/
 
 Explore and Download 5000+ Line Icons - Lineicons
 https://lineicons.com/icons/
+
+Python3开启自带http服务_HanZhizhi的博客-CSDN博客_python开启http服务
+https://blog.csdn.net/SPACESTUDIO/article/details/86760104
 ```
 
 # Notes
