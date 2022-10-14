@@ -67,7 +67,7 @@
                           <p>
                             这是一个公益项目，而且是<a href="https://github.com/WebStackPage/WebStackPage.github.io"> 开源 </a>
                             <iframe src="https://ghbtns.com/github-btn.html?user=WebStackPage&repo=WebStackPage.github.io&type=star&count=true"
-                                    frameborder="0" scrolling="0" width="100px" height="20px"></iframe> 的。你也可以拿来制作自己的网址导航。如果你有更好的想法，可以通过个人网站
+                                    frameborder="0" scrolling="0" width="100px" height="20px"></iframe> 的 | <a href="https://github.com/ahviplc/WebStack-vue"> LC自用开源 | </a>。你也可以拿来制作自己的网址导航。如果你有更好的想法，可以通过个人网站
                             <a href="http://www.viggoz.com">
                               <span class="label label-info" data-toggle="tooltip"
                                     data-placement="left" title=""

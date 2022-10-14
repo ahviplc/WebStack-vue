@@ -88,6 +88,11 @@
               <i class="fa-github"></i> GitHub
             </a>
           </li>
+          <li class="hidden-sm hidden-xs">
+            <a href="https://github.com/ahviplc/WebStack-vue" target="_blank">
+              <i class="fa-github"></i> ahviplc|GitHub
+            </a>
+          </li>
         </ul>
       </nav>
 
