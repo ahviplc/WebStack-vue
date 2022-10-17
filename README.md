@@ -31,6 +31,9 @@ https://lineicons.com/icons/
 
 Python3开启自带http服务_HanZhizhi的博客-CSDN博客_python开启http服务
 https://blog.csdn.net/SPACESTUDIO/article/details/86760104
+
+Vue - vue项目打包部署到Github的pages在线访问_西半球的博客-CSDN博客 - 这个是正解 好用的
+https://blog.csdn.net/iotjin/article/details/121455721
 ```
 
 # Notes
