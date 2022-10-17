@@ -96,6 +96,18 @@
         "desc": "我的github仓库"
       },
       {
+        "url": "https://gitee.com/ahviplc",
+        "logo": "https://gitee.com/static/images/logo-black.svg?t=158106664",
+        "title": "gitee ahviplc",
+        "desc": "我的gitee仓库"
+      },
+      {
+        "url": "https://shimo.im/recent",
+        "logo": "https://gips0.baidu.com/it/u=1583745978,1499370167&fm=3012&app=3012&autime=1661496643&size=b360,360",
+        "title": "LC的临时笔记本",
+        "desc": "我的石墨文档"
+      },
+      {
         "url": "https://account.qnap.com.cn/signup",
         "logo": "https://static.myqnapcloud.cn/auth/static/v3/img/header/acc-logo.svg",
         "title": "qnap账户",
