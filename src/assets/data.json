@@ -35,7 +35,7 @@
         "desc": "我的browserstation页-浏览器"
       },
       {
-        "url": "http://192.168.5.5:5000/qvs/#/console/vms/5?quality=high",
+        "url": "http://192.168.192.192:5000/qvs/#/console/vms/5?quality=high",
         "logo": "http://192.168.192.192:5000/cgi-bin/images/mobile/logo_16.ico?1664578442",
         "title": "qvs",
         "desc": "我的虚拟机工作站"
