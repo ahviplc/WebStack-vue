@@ -85,6 +85,43 @@
     ]
   },
   {
+    "name": "我的Tower",
+    "en_name": "tower",
+    "icon": "linecons-tag",
+    "web": [
+      {
+        "url": "http://192.168.192.193",
+        "logo": "https://avatars.githubusercontent.com/u/42099010?s=200&v=4",
+        "title": "Tower unraid",
+        "desc": "我的unraid管理页"
+      },
+      {
+        "url": "http://192.168.192.193:8004/",
+        "logo": "https://avatars.githubusercontent.com/u/34702247?s=200&v=4",
+        "title": "WebStack导航页",
+        "desc": "我的导航页"
+      },
+      {
+        "url": "http://192.168.192.193:9000/",
+        "logo": "https://avatars.githubusercontent.com/u/22225832?s=200&v=4",
+        "title": "Portainer",
+        "desc": "极好的docker图形化管理页面"
+      },
+      {
+        "url": "http://192.168.192.193:8089/",
+        "logo": "https://avatars.githubusercontent.com/u/1412239?s=200&v=4",
+        "title": "nginxWebUI",
+        "desc": "我的nginxWebUI管理页面"
+      },
+      {
+        "url": "http://192.168.192.193:5805/",
+        "logo": "https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png",
+        "title": "Firefox浏览器",
+        "desc": "我的docker版火狐浏览器,可访问内网服务网站"
+      }
+    ]
+  },
+  {
     "name": "私有收藏",
     "en_name": "Favorite",
     "icon": "linecons-tag",
