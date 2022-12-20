@@ -29,7 +29,7 @@
         "desc": "我的QuMagie页-照片墙"
       },
       {
-        "url": "http://192.168.192.192:5000/browserstation/",
+        "url": "http://192.168.192.192:5000/browser-station",
         "logo": "http://192.168.192.192:5000/cgi-bin/images/mobile/logo_16.ico?1664578442",
         "title": "browserstation",
         "desc": "我的browserstation页-浏览器"
@@ -60,7 +60,7 @@
       },
       {
         "url": "http://192.168.192.192:9000/",
-        "logo": "http://192.168.192.192:9000/29d4ee6d4a5c786588a7.svg",
+        "logo": "https://avatars.githubusercontent.com/u/22225832?s=200&v=4",
         "title": "Portainer",
         "desc": "极好的docker图形化管理页面"
       },
