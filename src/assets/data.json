@@ -118,6 +118,12 @@
         "logo": "https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png",
         "title": "Firefox浏览器",
         "desc": "我的docker版火狐浏览器,可访问内网服务网站"
+      },
+      {
+        "url": "http://192.168.192.193:6880/",
+        "logo": "http://192.168.192.193:6880/favicon.png",
+        "title": "万能下载器",
+        "desc": "我的BT等下载器,基于aria2 pro的docker容器,这是AriaNg前端下载页"
       }
     ]
   },

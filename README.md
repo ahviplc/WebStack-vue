@@ -34,6 +34,13 @@ https://blog.csdn.net/SPACESTUDIO/article/details/86760104
 
 Vue - vue项目打包部署到Github的pages在线访问_西半球的博客-CSDN博客 - 这个是正解 好用的
 https://blog.csdn.net/iotjin/article/details/121455721
+
+GitHub - xushier/HD-Icons: 高清仪表盘图标（1024x1024 分辨率）
+https://github.com/xushier/HD-Icons
+
+* https://gcore.jsdelivr.net/gh/xushier/HD-Icons@main/border-radius/Aria2_B.png
+* https://cdn.staticaly.com/gh/xushier/HD-Icons/main/border-radius/Aria2_B.png
+* https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Aria2_B.png
 ```
 
 # Notes
