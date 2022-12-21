@@ -38,9 +38,25 @@ https://blog.csdn.net/iotjin/article/details/121455721
 GitHub - xushier/HD-Icons: 高清仪表盘图标（1024x1024 分辨率）
 https://github.com/xushier/HD-Icons
 
+jsDelivr - A free, fast, and reliable CDN for open source
+https://www.jsdelivr.com/
+
+xushier/HD-Icons CDN by jsDelivr - A free, fast, and reliable Open Source CDN
+https://cdn.jsdelivr.net/gh/xushier/HD-Icons/
+
+* https://github.com/xushier/HD-Icons/raw/main/border-radius/163music_A.png
+* https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/163music_A.png
 * https://gcore.jsdelivr.net/gh/xushier/HD-Icons@main/border-radius/Aria2_B.png
+* https://fastly.jsdelivr.net/gh/xushier/HD-Icons@main/border-radius/163music_A.png
+* https://fastly.jsdelivr.net/gh/xushier/HD-Icons@main/border-radius/Nginx_C.png
+* https://cdn.jsdelivr.net/gh/xushier/HD-Icons@master/border-radius/Firefox_B.png
+* https://cdn.jsdelivr.net/gh/xushier/HD-Icons@master/circle/AriaNg.png
 * https://cdn.staticaly.com/gh/xushier/HD-Icons/main/border-radius/Aria2_B.png
+* https://cdn.staticaly.com/gh/xushier/HD-Icons/main/border-radius/Ikuai_A.png
+* https://cdn.staticaly.com/gh/xushier/HD-Icons/main/border-radius/Qbittorrent_A.png
+* https://cdn.staticaly.com/gh/xushier/HD-Icons/main/border-radius/Transmission_B.png
 * https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Aria2_B.png
+* https://raw.fastgit.org/xushier/HD-Icons/main/border-radius/163music_A.png
 ```
 
 # Notes

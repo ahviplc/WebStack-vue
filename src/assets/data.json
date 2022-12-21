@@ -48,13 +48,13 @@
       },
       {
         "url": "http://192.168.192.192:49092/",
-        "logo": "https://avatars.githubusercontent.com/u/223312?s=200&v=4",
+        "logo": "https://cdn.staticaly.com/gh/xushier/HD-Icons/main/border-radius/Transmission_B.png",
         "title": "transmission web",
         "desc": "transmission WEB控制器页面"
       },
       {
         "url": "http://192.168.192.192:8092/",
-        "logo": "https://avatars.githubusercontent.com/u/2131270?s=200&v=4",
+        "logo": "https://cdn.staticaly.com/gh/xushier/HD-Icons/main/border-radius/Qbittorrent_A.png",
         "title": "qBittorrent Web UI ",
         "desc": "qBittorrent Web UI管理页面"
       },
@@ -109,19 +109,19 @@
       },
       {
         "url": "http://192.168.192.193:8089/",
-        "logo": "https://avatars.githubusercontent.com/u/1412239?s=200&v=4",
+        "logo": "https://fastly.jsdelivr.net/gh/xushier/HD-Icons@main/border-radius/Nginx_C.png",
         "title": "nginxWebUI",
         "desc": "我的nginxWebUI管理页面"
       },
       {
         "url": "http://192.168.192.193:5805/",
-        "logo": "https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png",
+        "logo": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons@master/border-radius/Firefox_B.png",
         "title": "Firefox浏览器",
         "desc": "我的docker版火狐浏览器,可访问内网服务网站"
       },
       {
         "url": "http://192.168.192.193:6880/",
-        "logo": "http://192.168.192.193:6880/favicon.png",
+        "logo": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons@master/circle/AriaNg.png",
         "title": "万能下载器",
         "desc": "我的BT等下载器,基于aria2 pro的docker容器,这是AriaNg前端下载页"
       }
