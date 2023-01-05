@@ -51,10 +51,16 @@ https://cdn.jsdelivr.net/gh/xushier/HD-Icons/
 * https://fastly.jsdelivr.net/gh/xushier/HD-Icons@main/border-radius/Nginx_C.png
 * https://cdn.jsdelivr.net/gh/xushier/HD-Icons@master/border-radius/Firefox_B.png
 * https://cdn.jsdelivr.net/gh/xushier/HD-Icons@master/circle/AriaNg.png
+* https://cdn.jsdelivr.net/gh/xushier/HD-Icons@master/border-radius/Ikuai_A.png
+* https://cdn.jsdelivr.net/gh/xushier/HD-Icons@master/border-radius/Ikuai_B.png
+* https://cdn.jsdelivr.net/gh/xushier/HD-Icons@master/border-radius/Openwrt_A.png
+* https://cdn.jsdelivr.net/gh/xushier/HD-Icons@master/border-radius/Openwrt_B.png  
 * https://cdn.staticaly.com/gh/xushier/HD-Icons/main/border-radius/Aria2_B.png
 * https://cdn.staticaly.com/gh/xushier/HD-Icons/main/border-radius/Ikuai_A.png
 * https://cdn.staticaly.com/gh/xushier/HD-Icons/main/border-radius/Qbittorrent_A.png
 * https://cdn.staticaly.com/gh/xushier/HD-Icons/main/border-radius/Transmission_B.png
+* https://cdn.staticaly.com/gh/xushier/HD-Icons/main/border-radius/Bitwarden_A.png
+* https://cdn.staticaly.com/gh/xushier/HD-Icons/main/border-radius/Bitwarden_B.png
 * https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Aria2_B.png
 * https://raw.fastgit.org/xushier/HD-Icons/main/border-radius/163music_A.png
 ```

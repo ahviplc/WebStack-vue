@@ -124,6 +124,30 @@
         "logo": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons@master/circle/AriaNg.png",
         "title": "万能下载器",
         "desc": "我的BT等下载器,基于aria2 pro的docker容器,这是AriaNg前端下载页"
+      },
+      {
+        "url": "https://nas.oneplusone.vip:8008/#/login",
+        "logo": "https://cdn.staticaly.com/gh/xushier/HD-Icons/main/border-radius/Bitwarden_B.png",
+        "title": "Vaultwarden",
+        "desc": "Vaultwarden,我的网页密码库"
+      },
+      {
+        "url": "https://nas.oneplusone.vip:8008/admin",
+        "logo": "https://cdn.staticaly.com/gh/xushier/HD-Icons/main/border-radius/Bitwarden_A.png",
+        "title": "Vaultwarden admin",
+        "desc": "Vaultwarden,我的网页密码库 admin管理页"
+      },
+      {
+        "url": "http://192.168.192.193:8005",
+        "logo": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons@master/border-radius/Ikuai_A.png",
+        "title": "爱快",
+        "desc": "Tower中的爱快虚拟机"
+      },
+      {
+        "url": "http://192.168.192.193:8006/cgi-bin/luci/",
+        "logo": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons@master/border-radius/Openwrt_B.png",
+        "title": "iStoreOS",
+        "desc": "Tower中的openwrt软路由"
       }
     ]
   },
