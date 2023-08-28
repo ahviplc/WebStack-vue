@@ -148,6 +148,12 @@
         "logo": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons@master/border-radius/Openwrt_B.png",
         "title": "iStoreOS",
         "desc": "Tower中的openwrt软路由"
+      },
+      {
+        "url": "http://192.168.192.193:8200/ngax/index.html",
+        "logo": "https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Duplicati_A.png",
+        "title": "Duplicati",
+        "desc": "Tower中的Duplicati备份系统"
       }
     ]
   },
