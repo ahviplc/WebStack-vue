@@ -150,6 +150,12 @@
         "desc": "Tower中的openwrt软路由"
       },
       {
+        "url": "http://192.168.192.193:7681",
+        "logo": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons@master/border-radius/Istoreos_A.png",
+        "title": "iStoreOS ttyd",
+        "desc": "Tower中的openwrt软路由里的web终端"
+      },
+      {
         "url": "http://192.168.192.193:8200/ngax/index.html",
         "logo": "https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Duplicati_A.png",
         "title": "Duplicati",
