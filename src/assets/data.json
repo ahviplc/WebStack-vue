@@ -166,6 +166,12 @@
         "logo": "https://avatars.githubusercontent.com/u/13844975?s=200&v=4",
         "title": "Tower Home Assistant",
         "desc": "Tower中的HA 较新2023.8.4版本"
+      },
+      {
+        "url": "http://192.168.192.193:3311",
+        "logo": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/Drawio_A.png",
+        "title": "Draw.io",
+        "desc": "Tower中的免费Draw.io流程图绘制软件"
       }
     ]
   },
