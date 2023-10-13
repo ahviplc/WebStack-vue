@@ -121,7 +121,7 @@
       },
       {
         "url": "http://192.168.192.193:6880/",
-        "logo": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons@master/circle/AriaNg.png",
+        "logo": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons@main/circle/Ariang_A.png",
         "title": "万能下载器",
         "desc": "我的BT等下载器,基于aria2 pro的docker容器,这是AriaNg前端下载页"
       },
