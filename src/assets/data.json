@@ -48,13 +48,13 @@
       },
       {
         "url": "http://192.168.192.192:49092/",
-        "logo": "https://cdn.staticaly.com/gh/xushier/HD-Icons/main/border-radius/Transmission_B.png",
+        "logo": "https://cdn.statically.io/gh/xushier/HD-Icons/main/border-radius/Transmission_B.png",
         "title": "transmission web",
         "desc": "transmission WEB控制器页面"
       },
       {
         "url": "http://192.168.192.192:8092/",
-        "logo": "https://cdn.staticaly.com/gh/xushier/HD-Icons/main/border-radius/Qbittorrent_A.png",
+        "logo": "https://cdn.statically.io/gh/xushier/HD-Icons/main/border-radius/Qbittorrent_A.png",
         "title": "qBittorrent Web UI ",
         "desc": "qBittorrent Web UI管理页面"
       },
@@ -127,13 +127,13 @@
       },
       {
         "url": "https://nas.oneplusone.vip:8008/#/login",
-        "logo": "https://cdn.staticaly.com/gh/xushier/HD-Icons/main/border-radius/Bitwarden_B.png",
+        "logo": "https://cdn.statically.io/gh/xushier/HD-Icons/main/border-radius/Bitwarden_B.png",
         "title": "Vaultwarden",
         "desc": "Vaultwarden,我的网页密码库"
       },
       {
         "url": "https://nas.oneplusone.vip:8008/admin",
-        "logo": "https://cdn.staticaly.com/gh/xushier/HD-Icons/main/border-radius/Bitwarden_A.png",
+        "logo": "https://cdn.statically.io/gh/xushier/HD-Icons/main/border-radius/Bitwarden_A.png",
         "title": "Vaultwarden admin",
         "desc": "Vaultwarden,我的网页密码库 admin管理页"
       },
