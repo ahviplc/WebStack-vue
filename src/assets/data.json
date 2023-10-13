@@ -172,6 +172,12 @@
         "logo": "https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/Drawio_A.png",
         "title": "Draw.io",
         "desc": "Tower中的免费Draw.io流程图绘制软件"
+      },
+      {
+        "url": "http://192.168.192.193:7575/zh",
+        "logo": "https://ghproxy.com/https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/png/homarr.png",
+        "title": "homarr",
+        "desc": "Tower中的顺滑的现代化的导航页面板"
       }
     ]
   },
