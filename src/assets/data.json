@@ -184,6 +184,24 @@
         "logo": "https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/1Panel_B.png",
         "title": "1Panel",
         "desc": "Tower中的Linux服务器运维管理面板"
+      },
+      {
+        "url": "http://192.168.5.55:8012",
+        "logo": "https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Adminer_A.png",
+        "title": "Adminer MySQL",
+        "desc": "Tower中的数据库客户端"
+      },
+      {
+        "url": "http://192.168.5.55:8013",
+        "logo": "https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Adminer_A.png",
+        "title": "Adminer PostgreSQL",
+        "desc": "Tower中的数据库客户端"
+      },
+      {
+        "url": "http://192.168.192.193:5244",
+        "logo": "https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Alist_A.png",
+        "title": "AList",
+        "desc": "Tower中的支持多种存储的文件列表程序"
       }
     ]
   },
