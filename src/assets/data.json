@@ -202,6 +202,18 @@
         "logo": "https://ghproxy.com/https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/Alist_A.png",
         "title": "AList",
         "desc": "Tower中的支持多种存储的文件列表程序"
+      },
+      {
+        "url": "http://192.168.192.193:8807",
+        "logo": "https://ghgo.xyz/https://raw.githubusercontent.com/donknap/dpanel/refs/heads/master/asset/static/dpanel.ico",
+        "title": "DPanel",
+        "desc": "Tower中的Docker管理面板"
+      },
+      {
+        "url": "http://192.168.192.193:3002",
+        "logo": "https://doc.sun-panel.top/favicon.ico",
+        "title": "Sun-Panel",
+        "desc": "Tower中的Sun-Panel♡LC的优雅导航页"
       }
     ]
   },
