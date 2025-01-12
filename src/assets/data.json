@@ -214,6 +214,12 @@
         "logo": "https://doc.sun-panel.top/favicon.ico",
         "title": "Sun-Panel",
         "desc": "Tower中的Sun-Panel♡LC的优雅导航页"
+      },
+      {
+        "url": "http://192.168.192.193:5001",
+        "logo": "https://dockge.kuma.pet/icon.svg",
+        "title": "dockge",
+        "desc": "Tower中的自托管的面向compose的docker管理器"
       }
     ]
   },
