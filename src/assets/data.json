@@ -204,6 +204,12 @@
         "desc": "Tower中的支持多种存储的文件列表程序"
       },
       {
+        "url": "http://192.168.192.193:1234/",
+        "logo": "http://192.168.192.193:1234/yacd.ico",
+        "title": "yacd",
+        "desc": "Tower中的clash web ui管理页面"
+      },
+      {
         "url": "http://192.168.192.193:8807",
         "logo": "https://ghfast.top/https://raw.githubusercontent.com/donknap/dpanel/refs/heads/master/asset/static/dpanel.ico",
         "title": "DPanel",
